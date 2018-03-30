@@ -115,34 +115,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1271,
-                    51.5063
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "created_at": "Sat Jan 27 14:30:11 +0000 2018",
-                "text": "\u2488 #HolocaustMemorialDay\n\u2489 Bryony Frost\n\u248a #NationalChocolateCakeDay\n\u248b #PetLei\n\u248c Caroline Wozniacki\n\u248d Peterborough 0-\u2026 https://t.co/AfLp6wm9Jf"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1271,
-                    51.5063
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "created_at": "Sat Jan 27 12:44:45 +0000 2018",
-                "text": "\u2488 #HolocaustMemorialDay\n\u2489 Caroline Wozniacki\n\u248a #NationalChocolateCakeDay\n\u248b #SaturdayMorning\n\u248c #BigGardenBirdwatch\n\u248d\u2026 https://t.co/Papgi0B4TJ"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -4.05,
                     51.0833
                 ],
@@ -165,34 +137,6 @@
             "properties": {
                 "created_at": "Sat Jan 27 12:22:07 +0000 2018",
                 "text": "All set for the #biggardenbirdwatch although I do wish the blooming\u2026 https://t.co/7LwFMh2E56"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1271,
-                    51.5063
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "created_at": "Sat Jan 27 10:01:10 +0000 2018",
-                "text": "\u2488 #HolocaustMemorialDay\n\u2489 #SaturdayMorning\n\u248a GAME DAY\n\u248b MATCH DAY\n\u248c Wozniacki\n\u248d #Kabul\n\u248e #BigGardenBirdwatch\n\u248f Haye\u2026 https://t.co/F772om1STG"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1271,
-                    51.5063
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "created_at": "Sat Jan 27 09:40:00 +0000 2018",
-                "text": "\u2488 #HolocaustMemorialDay\n\u2489 #SaturdayMorning\n\u248a GAME DAY\n\u248b MATCH DAY\n\u248c Halep\n\u248d #Kabul\n\u248e Hayes\n\u248f Peter Casey\n\u2490\u2026 https://t.co/lwyD5wVXSZ"
             },
             "type": "Feature"
         }
